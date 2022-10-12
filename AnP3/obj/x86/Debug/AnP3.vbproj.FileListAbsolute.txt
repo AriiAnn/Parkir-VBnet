@@ -1,0 +1,12 @@
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\bin\Debug\AnP3.exe
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\bin\Debug\AnP3.pdb
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\bin\Debug\AnP3.xml
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\obj\x86\Debug\AnP3.Resources.resources
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\obj\x86\Debug\AnP3.vbproj.GenerateResource.Cache
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\obj\x86\Debug\AnP3.exe
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\obj\x86\Debug\AnP3.xml
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\obj\x86\Debug\AnP3.pdb
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\obj\x86\Debug\AnP3.LoginAdmin.resources
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\obj\x86\Debug\AnP3.FormMenu.resources
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\obj\x86\Debug\AnP3.FormParkirMasuk.resources
+C:\Users\acer\documents\visual studio 2010\Projects\AnP3\AnP3\obj\x86\Debug\AnP3.FormParkirKeluar.resources
